@@ -1,7 +1,7 @@
 # The Nightmare Before Christmas(R) Version 1.0 2022/12/11 
 
-### GENERAL USAGE NOTES 
---------------------
+### General Usage Notes 
+------------------------
 - The Nightmare Before Christmas reads the *student-mat.csv* file provided to evalute multiple examples of sorting and evaluating data. 
   1. The data is loaded into a data structure. From text processing a dictionare is created filled with the information from *student-mat.csv*. The dicitonary contains five different dictionary keys *School, Age, Health, Failures and Average Grade*(**Average Grade is calculated through the use of the 'G_Avg' that has been developed**). 
   2. The 'Load Data' module created above is then used to perform unit testing while reading from the *student-mat.csv* file. The dictionary is 'split' into separate dictionaries for easier manipulation of the data.
@@ -11,7 +11,7 @@
   6. Two user inerfaces (*UIs*) are compiled to call and execute selected functions from above based on the needs of the user. The firts UI directly obtains input from the terminal. The second UI is a batch interface; a non-interactive interfaces where the details are specified and then returns upon completion, the required information. 
   
  ### Installing the Required Programs
-  ---------------------------------
+  ------------------------------------
 - When installing *The Nightmare Before Christmas*, it is recommended that the user installs multiple programs. 
   1. The first required program is **pip**
   - This needs to be downloaded to collect the rest of the required modules. **Download the run the latest version.** 
