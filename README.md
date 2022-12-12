@@ -15,11 +15,27 @@
 - When installing *The Nightmare Before Christmas*, it is recommended that the user installs multiple programs. 
   1. The first required program is **pip**
   - This needs to be downloaded to collect the rest of the required modules. **Download the run the latest version.** 
-  - [Installation can be found at:] (https://bootstrap.pypa.io/get-pip.py)
+  - [Installation can be found at:](https://bootstrap.pypa.io/get-pip.py)
     -(*Ensure to download to same directory as python*)
   2. **matplotlib.pyplot** 
   -Use pip to intall matplotlib.pyplot in the python interface. 
   3. **scipy.optimize**
   -Use pip to intall scipy.optimize in the python interface.
-  
-  
+
+### Usage
+----------
+1. Run python and open the file
+2. Run the inputs as necessary (*Open provided file for usage information and hints*)
+3. [T070_M3_text_ui.txt](https://github.com/Rowfishi/README.md/files/10204319/T070_M3_text_ui.txt)
+
+#### Program Contact Information 
+Creator: Jindal, Vaasu 
+Email: vaasujindal@cmail.carleton.ca
+Student Number: 101287089
+
+#### Credits 
+LAB 3 
+1. 
+
+#### License 
+
