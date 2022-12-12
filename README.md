@@ -33,9 +33,35 @@ Creator: Jindal, Vaasu
 Email: vaasujindal@cmail.carleton.ca
 Student Number: 101287089
 
+
+
+
 #### Credits 
-LAB 3 
-1. 
-
+1. Mustafa Sindhu
+  - student_school_dictionary
+  - histogram
+  - Text User Interface
+  
+2. Vaasu Jindal 
+  - student_health_dictionary
+  - add_average
+  - load_data 
+  - curve_fit
+  - sort_plot
+  - Batch User Interface
+  
+3. Rowan Duff 
+  - student_failures_dictionary
+  - sort_students_selection
+  - minimum
+  - README
+  
+4. Churchhill Atiba 
+  - student_age_dictionary
+  - sort_students_bubble
+  - maximum
+  
 #### License 
-
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
